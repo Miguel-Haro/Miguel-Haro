@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou Miguel Haro!
 
-<!--
-**Miguel-Haro/Miguel-Haro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Informática para Internet na Etec Elias Nechar.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Full Stack em aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando:
+- Python
+- TypeScript
+- PHP
+- Banco de Dados (MySQL)
+
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,php,mysql)](https://skillicons.dev)
