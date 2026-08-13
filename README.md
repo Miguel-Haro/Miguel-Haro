@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Miguel Haro!
+# 👋 Olá, eu sou Miguel Cano!
 
 🎓 Estudante de Informática para Internet na Etec Elias Nechar.
 
