@@ -6,8 +6,7 @@
 
 🚀 Atualmente estudando:
 - Python
-- TypeScript
-- PHP
+- React
 - Banco de Dados (MySQL)
 
 ## 🛠️ Skills
