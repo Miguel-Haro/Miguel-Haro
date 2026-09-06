@@ -1,9 +1,9 @@
 name: Generate GitHub Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,7 +17,7 @@ jobs:
         uses: cicirello/user-statistician@v1.25.0
         with:
           image-file: stats.svg
-          locale: pt-br
           commit-and-push: true
+          locale: pt
         env:
           GH_TOKEN: ${{ github.token }}
