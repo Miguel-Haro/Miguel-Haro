@@ -119,7 +119,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/stats-output/stats.svg"
+    src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/main/stats.svg"
     height="150"
     alt="stats graph"
   />
+</div>
