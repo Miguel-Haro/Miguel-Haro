@@ -119,8 +119,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/main/images/userstats.svg"
+    src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/main/images/languages.svg"
     height="150"
-    alt="GitHub statistics"
+    alt="Languages statistics"
   />
 </div>
