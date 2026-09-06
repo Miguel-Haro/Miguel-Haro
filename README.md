@@ -121,6 +121,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
   <img
     src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/main/stats.svg"
     height="150"
-    alt="stats graph"
+    alt="GitHub statistics"
   />
 </div>
