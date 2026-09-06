@@ -16,10 +16,8 @@ jobs:
       - name: Generate stats
         uses: cicirello/user-statistician@v1.25.0
         with:
-          user: Miguel-Haro
-          repositories: true
-          commits: true
-          issues: true
-          pull_requests: true
-          languages: true
-          output_branch: stats-output
+          image-file: stats.svg
+          locale: pt-br
+          commit-and-push: true
+        env:
+          GH_TOKEN: ${{ github.token }}
