@@ -1,23 +1,25 @@
-name: Generate GitHub Stats
+name: Generate GitHub Languages
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-
-permissions:
-  contents: write
+  workflow_dispatch:
 
 jobs:
   stats:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate stats
-        uses: cicirello/user-statistician@v1.25.0
+      - uses: actions/checkout@v6
+
+      - name: Generate languages statistics
+        uses: cicirello/user-statistician@v1
         with:
-          image-file: stats.svg
-          commit-and-push: true
-          locale: pt
+          image-file: images/languages.svg
+          hide-keys: general, contributions, repositories
+          max-languages: 10
         env:
-          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
