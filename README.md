@@ -119,8 +119,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Haro&layout=compact&theme=default"
-    height="180"
-    alt="Top Languages"
+    src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/main/images/languages.svg"
+    height="150"
+    alt="languages graph"
   />
 </div>
