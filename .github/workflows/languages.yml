@@ -1,0 +1,20 @@
+name: Update languages statistics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate language statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          user-name: Miguel-Haro
+          include-title: true
