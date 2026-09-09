@@ -19,9 +19,13 @@ Me chamo Miguel Cano de Haro, tenho 16 anos e sou natural de São Paulo. Estou n
 <br />
 <br />
 
-!
-[Variableßee GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Haro&show_icons=true&theme=gotham)
-
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Miguel-Haro&include_all_commits=true&theme=transparent"
+    height="150"
+  />
+  
+</div>
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/languages-output/languages.svg"
