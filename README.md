@@ -1,42 +1,39 @@
-<h4 data-importer="text" align="center"># 👨🏻‍💻 Miguel Cano Desenvolvedor Full Stack em aprendizado<br><br>Me chamo Miguel Cano de Haro, tenho 16 anos e sou natural de São Paulo. Estou no segundo ano do ensino médio na Etec Elias Nechar, com o curso técnico em Informática para Internet.</h4>
+# 👨🏻‍💻 Miguel Cano `Desenvolvedor Full Stack em aprendizado`
 
-###
+Me chamo Miguel Cano de Haro, tenho 16 anos e sou natural de São Paulo. Estou no segundo ano do ensino médio na Etec Elias Nechar, com o curso técnico em Informática para Internet.
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+---
 
-###
+### 🛠️ Tecnologias & Ferramentas
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55px" title="HTML5" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55px" title="CSS3" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55px" title="JavaScript" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="55px" title="TypeScript" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55px" title="React" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55px" title="Tailwind CSS" alt="Tailwind CSS"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="55px" title="PHP" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55px" title="Python" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="55px" title="Django" alt="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55px" title="Java" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="55px" title="Spring Boot" alt="Spring Boot"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55px" title="C#" alt="C#"/>
+
 </div>
 
-###
+<br />
+<br />
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-</div>
-
-###
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td>
+      <img
+      src="https://github-stats-extended.vercel.app/api?username=Miguel-Haro&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark_github&hide_border=true&bg_color=00000000&v=2"
+      alt="GitHub Stats"
+      width="420px"
+        />
+    </td>
+    <td>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=Miguel-Haro&theme=dark_github&hide_border=true&bg_color=00000000&layout=compact&v=2"
+  alt="GitHub Languages"
+  width="420px"
+/>
+    </td>
+  </tr>
+</table>
