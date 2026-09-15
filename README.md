@@ -22,18 +22,19 @@ Me chamo Miguel Cano de Haro, tenho 16 anos e sou natural de São Paulo. Estou n
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td>
-      <img
-        src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/languages-output/languages.svg?locale=en&hide_title=false&layout=default&card_width=320&langs_count=9&theme=aura_dark&hide_border=true&order=2&custom_title=Linguagens"
-        height="150"
-        alt="languages graph"
-      />
-    </td>
-    <td>
-      <img
-        src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura_dark&locale=en&hide_border=true&order=1"
-        height="250"
-        alt="stats graph"
-      />
+     <div align="center">
+  <img
+    src="./languages.svg"
+    height="150"
+    alt="languages graph"
+  />
+
+  <img
+    src="./stats.svg"
+    height="250"
+    alt="stats graph"
+  />
+</div>
     </td>
   </tr>
 </table>
