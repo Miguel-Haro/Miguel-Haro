@@ -27,13 +27,13 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura_dark&locale=en&hide_border=true
-          path: stats.svg
+          path: stats-output/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit stats.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats.svg
+          git add stats-output/stats.svg
           git commit -m "Update stats.svg" || exit 0
           git push
