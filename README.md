@@ -14,8 +14,8 @@ Me chamo Miguel Cano de Haro, tenho 16 anos e sou natural de São Paulo. Estou n
   <img
     width="41%"
     height="195px"
-    src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/languages-output/languages.svg"
-    alt="Miguel Cano Linguagens"
+   src="https://github.com/Miguel-Haro/Miguel-Haro/blob/main/images/languages.svg"
+   alt="Miguel Cano Linguagens"
   />
 </div>
 
