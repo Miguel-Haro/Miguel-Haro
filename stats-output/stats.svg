@@ -46,7 +46,7 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #6cffd0;
+      fill: #fa1900;
       display: block;
     }
 
