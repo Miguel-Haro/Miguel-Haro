@@ -10,24 +10,19 @@ on:
     branches:
       - main
 
-      jobs:
+jobs:
   generate:
     permissions:
       contents: write
-      actions: read
-      pull-requests: read
 
     runs-on: ubuntu-latest
-
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate stats.svg
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura_dark&locale=en&hide_border=true
