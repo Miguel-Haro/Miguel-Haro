@@ -4,12 +4,7 @@
 Me chamo Miguel Cano de Haro, tenho 16 anos e sou natural de São Paulo. Estou no segundo ano do ensino médio na Etec Elias Nechar, com o curso técnico em Informática para Internet.
 
 <div align="center">  
- <img
-    width="49%"
-    height="195px"
-    src="https://raw.githubusercontent.com/Miguel-Haro/Miguel-Haro/main/stats-output/stats.svg"
-    alt="Miguel Cano GitHub Stats"
-  />
+<img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
   <img
     width="41%"
