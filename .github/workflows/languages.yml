@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Generate languages.svg
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=default&card_width=320&langs_count=9&theme=aura_dark&hide_border=true&custom_title=Linguagens
