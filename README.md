@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa1900&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A0000&height=120&section=header"/>
 
 # 👨🏻‍💻 Miguel Cano `Desenvolvedor Full Stack em aprendizado`
 Me chamo Miguel Cano de Haro, tenho 16 anos e sou natural de São Paulo. Estou no segundo ano do ensino médio na Etec Elias Nechar, com o curso técnico em Informática para Internet.
@@ -18,5 +18,5 @@ Me chamo Miguel Cano de Haro, tenho 16 anos e sou natural de São Paulo. Estou n
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa1900&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A0000&height=120&section=footer"/>
 
